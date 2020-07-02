@@ -1,0 +1,22 @@
+{
+  "name": "caesar-code",
+  "version": "1.0.0",
+  "description": "Caesar's encoder/decoder for Cryptography Course UBB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "UBB",
+    "caesar",
+    "node",
+    "nodejs"
+  ],
+  "author": "Alex Naiman",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^14.2.0"
+  },
+  "devDependencies": {}
+}
